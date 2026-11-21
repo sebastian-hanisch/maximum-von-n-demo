@@ -1,6 +1,6 @@
 # Das Größte von n: wie sich ein Maximum verteilt – Streamlit-Demo
 
-<!-- Live-Link nach dem Deploy direkt hierher setzen (Leerzeile davor und danach): **[→ Demo live ausprobieren](https://sebastianhanisch-maximum-von-n-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-maximum-von-n-demo.streamlit.app/)**
 
 Einstieg der Linie **„Extremwerte erklärt“** in der „Konzepte“-Reihe der Website „Sebastian Hanisch – Operations Research und Machine Learning“ (Bereich Statistik, Feld „Seltenes und Extremes“).
 Es gibt keinen Vorgänger; die Kante ist ein **Kontrast**: Die Annahme, die hier fällt, steht nicht in einem früheren Stück, sondern in der Alltagsvorstellung „das Größte von n Beobachtungen
